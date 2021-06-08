@@ -11,8 +11,8 @@ Getting Started:
 
 This project 95% emulates the game of tetris. It is because it has the following issues that may or may not be fixed in the future:
 
--If a line isn't formed at the bottom, it doesn't count. 
--There is a glitch where sometimes parts of blocks go out of playable area. 
+1) If a line isn't formed at the bottom, it doesn't count. 
+2) There is a glitch where sometimes parts of blocks go out of playable area. 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
