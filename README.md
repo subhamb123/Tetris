@@ -2,18 +2,17 @@
 
 Getting Started:
 1) Download the zip and unzip it.
-2) Go into the tetris folder which is in the same folder as the license and readme.
-3) Open the sln file.
-4) Make sure project is in release and x86 mode.
-5) Start without debugging and enjoy the game!
+2) Click on the shortcut and enjoy the game!
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-This project 95% emulates the game of tetris. It is because it has the following issues that may or may not be fixed in the future:
+This project was inspired by the original Tetris game. It is almost like the original, but it has the following issues that will be fixed in the future:
 
 1) If a line isn't formed at the bottom, it doesn't count. 
 2) There is a glitch where sometimes parts of blocks go out of playable area. 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-If you inspect my code, you will see a lot of code blocks. I feel there is no way around this. At least it works. I had a lot of fun making this!
+If you inspect my code, you will see a lot of code blocks. I had the goal of finishing this within a few weeks, so I brute forced my way through not worrying much about efficiency. So, I am aware there is another path I can take for a future version to rebuild the core code which eliminates these blocks and might also solve the issues stated above. 
+
+I had a lot of fun making this!
